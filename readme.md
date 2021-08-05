@@ -1,2 +1,4 @@
 <!-- ![ text ](/media/bubbles.gif) -->
-<img src="/media/bubbles.gif" style="align:center">
+<div style="text-align: center;">
+    <img src="/media/bubbles.gif">
+</div>
