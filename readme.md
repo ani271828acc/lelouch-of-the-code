@@ -1,3 +1,3 @@
 # amaterasu!!
 
-[![ text ](https://i.pinimg.com/originals/72/ff/58/72ff58ebc1b799ebafcd8901845a62af.gif)]
+[![ text ](https://media.tenor.com/images/92ea26fee9522cc533e2f3f30923317a/tenor.gif)]
